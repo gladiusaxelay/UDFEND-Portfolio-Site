@@ -1,0 +1,16 @@
+.jumbotron {
+    margin-top: 2rem;
+}
+
+.btn {
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.img-fluid {
+    display: block;
+    width: 100%;
+}
